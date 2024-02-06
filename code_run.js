@@ -1,13 +1,18 @@
 // ==UserScript==
-// @name         hoyoverse code helper
+// @name         hoyoverse 序列化序號輸入
+// @name:ja      シリアル序列化入力機能
+// @name:en      hoyoverse code helper
 // @namespace    http://tampermonkey.net/
 // @version      2024-02-06
-// @description  auto run bunch codes for genshin and hsr
+// @description  自動整理、輪流輸入批量序號
+// @description:ja  バッチシリアル順番入力
+// @description:en  auto run bunch codes for genshin and hsr
 // @author       Bee10301
 // @match        https://hsr.hoyoverse.com/gift*
 // @match        https://genshin.hoyoverse.com/*gift*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=hoyoverse.com
 // @grant        none
+// @license      GNU GPLv3
 // ==/UserScript==
 
 (async function () {

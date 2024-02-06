@@ -17,7 +17,7 @@
 ## Usage
 1. Make sure you have [Tampermonkey](https://www.tampermonkey.net/)
    If you are using Chrome, you can also click [here](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-2. [Install the script](https://waitforpublish)
+2. [Install the script](https://greasyfork.org/zh-TW/scripts/486793-hoyoverse-%E5%BA%8F%E5%88%97%E5%8C%96%E5%BA%8F%E8%99%9F%E8%BC%B8%E5%85%A5)
 3. After that, you can go to the official exchange page
     [Genshin Impact](https://genshin.hoyoverse.com/gift)
     [HStar Rail](https://hsr.hoyoverse.com/gift)

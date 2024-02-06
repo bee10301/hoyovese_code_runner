@@ -17,7 +17,7 @@
 ## 使用方法
 1. 確定你有[Tampermonkey](https://www.tampermonkey.net/)
    如果你使用chrome也可以直接點[這裡](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-2. [點此安裝腳本](https://waitforpublish)
+2. [點此安裝腳本](https://greasyfork.org/zh-TW/scripts/486793-hoyoverse-%E5%BA%8F%E5%88%97%E5%8C%96%E5%BA%8F%E8%99%9F%E8%BC%B8%E5%85%A5)
 3. 往後至官方網站兌換頁面即可
     [原神](https://genshin.hoyoverse.com/gift)
     [鐵道](https://hsr.hoyoverse.com/gift)
