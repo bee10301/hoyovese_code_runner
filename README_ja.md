@@ -17,7 +17,7 @@
 ## 使用方法
 1. [Tampermonkey](https://www.tampermonkey.net/)をインストールしてください
    Chromeを使っているなら、[ここをクリック](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-2. [スクリプトをインストール](https://greasyfork.org/zh-TW/scripts/486793-hoyoverse-%E5%BA%8F%E5%88%97%E5%8C%96%E5%BA%8F%E8%99%9F%E8%BC%B8%E5%85%A5)
+2. [スクリプトをインストール](https://greasyfork.org/ja/scripts/486793-hoyoverse-%E5%BA%8F%E5%88%97%E5%8C%96%E5%BA%8F%E8%99%9F%E8%BC%B8%E5%85%A5)
 3. 以後、公式サイトの交換ページに行けばOK
     [原神](https://genshin.hoyoverse.com/gift)
     [崩壊スターレイル](https://hsr.hoyoverse.com/gift)
