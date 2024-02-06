@@ -14,6 +14,14 @@
 - Separated by spaces or line breaks
 - Due to cooldown, after runing each serial number, it will wait for 5 seconds for next. The button will display the countdown and run the next one.
 
+## Usage
+1. Make sure you have [Tampermonkey](https://www.tampermonkey.net/)
+   If you are using Chrome, you can also click [here](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+2. [Install the script](https://waitforpublish)
+3. After that, you can go to the official exchange page
+    [Genshin Impact](https://genshin.hoyoverse.com/gift)
+    [HStar Rail](https://hsr.hoyoverse.com/gift)
+
 ## Example
 ```
 ZA9674JSAUPF 3S9N65KTBD63 
@@ -24,3 +32,9 @@ https://hsr.hoyoverse.com/gift?code=DIVEINTODREAMS
 DREAMTOGETHER
 0206STARRAIL
 ```
+
+### The following codes I have used, and it shows fail
+![Input Example](./pic/running.gif)
+
+### If successful, it will display OK
+![Success](./pic/success.jpg)
